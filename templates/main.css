@@ -1,0 +1,28 @@
+body {
+  background: #f5f7f9;
+  font-family: "Roboto Mono", monospace;
+}
+
+hr {
+  color: #bbb;
+  background-color: #bbb;
+  height: 1px;
+  border: 0;
+}
+
+h1 {
+  font-family: "Camphor", "Segoe UI", "Open Sans", sans-serif;
+  font-weight: 300;
+}
+
+header {
+  width: 880px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.card {
+  width: 878px;
+  margin: 0 auto 100px;
+  position: relative;
+}
