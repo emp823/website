@@ -24,7 +24,7 @@
 ; Home page
 (define (home-page request)
   (let
-    ([content (include-template "templates/index.html")] [github (include-template "templates/icons/github.svg")])
+    ([content (include-template "templates/index.html")])
       (http-response (include-template/xml "templates/base.html") 200)))
 
 ; respond-unknown-file: request -> response

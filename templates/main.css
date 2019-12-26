@@ -25,7 +25,7 @@ h1 {
 }
 
 .picture {
-  background-image: url("/images/targhee.jpg");
+  background-image: url("/targhee.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
